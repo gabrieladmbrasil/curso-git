@@ -1,0 +1,13 @@
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.exe
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.deps.json
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.runtimeconfig.json
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.runtimeconfig.dev.json
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.dll
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\bin\Debug\netcoreapp3.1\Projeto-git.pdb
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.csprojAssemblyReference.cache
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.AssemblyInfoInputs.cache
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.AssemblyInfo.cs
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.dll
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.pdb
+C:\Users\Colaborador\source\repos\Projeto-git\Projeto-git\obj\Debug\netcoreapp3.1\Projeto-git.genruntimeconfig.cache
